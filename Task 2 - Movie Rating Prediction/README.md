@@ -29,10 +29,9 @@ To build a machine learning model that predicts IMDb ratings of Indian movies us
 ## 📈 Feature Importance
 The most influential features in predicting a movie's rating:
 
-![Feature Importance](feature_importance.png) <!-- optional: upload this file -->
+![Feature Importance](Task-2.png) <!-- optional: upload this file -->
 
-## 🎥 Demo Video
-[Insert your YouTube or LinkedIn video link here when ready]
+
 
 ## ✅ Status
 Completed ✔️
