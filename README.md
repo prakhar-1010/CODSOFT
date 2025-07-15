@@ -52,8 +52,8 @@ Classifying Iris flowers into three species using petal and sepal dimensions.
 ---
 
 ## 🔗 Connect with Me
-- [LinkedIn](www.linkedin.com/in/prakhar-pratap-singh-b56127330)
-- [GitHub](prakhar-1010) 
+- [LinkedIn](https://www.linkedin.com/in/prakhar-pratap-singh-b56127330/)
+- [GitHub](https://github.com/prakhar-1010)
 
 ---
 
