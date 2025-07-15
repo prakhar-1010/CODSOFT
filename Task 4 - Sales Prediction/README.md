@@ -33,21 +33,21 @@ To build a regression model that predicts **product sales** based on advertising
 ### 🔹 1. Pairplot – Features vs Sales
 A visual comparison of every feature against `Sales`.
 
-![Pairplot](pairplot.png)
+![Pairplot](Task-4.1.png)
 
 ---
 
 ### 🔹 2. Correlation Heatmap
 Shows the strength of relationships between features.
 
-![Heatmap](correlation_heatmap.png)
+![Heatmap](Task-4.2.png)
 
 ---
 
 ### 🔹 3. Actual vs Predicted Sales
 Visual comparison of predicted vs actual sales values. The closer the dots are to the red line, the better the model’s predictions.
 
-![Actual vs Predicted](sales_prediction_plot.png)
+![Actual vs Predicted](TTask-4.3.png)
 
 ---
 
