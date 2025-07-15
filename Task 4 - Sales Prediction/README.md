@@ -1,7 +1,7 @@
 # Task 4 – Sales Prediction using Python 📊
 
 ## 📌 Objective
-To build a regression model that predicts **product sales** based on advertising budget allocation across **TV, Radio, and Newspaper** channels.
+To build a regression model that predicts **product sales** based on advertising spend across **TV, Radio, and Newspaper** channels.
 
 ## 📊 Dataset
 - Source: [Kaggle - Sales Prediction Dataset](https://www.kaggle.com/code/ashydv/sales-prediction-simple-linear-regression/input)
@@ -14,9 +14,9 @@ To build a regression model that predicts **product sales** based on advertising
 - Scikit-learn
 
 ## 🔧 Data Preprocessing
-- Checked correlation between features
-- Used all three features: `TV`, `Radio`, and `Newspaper` as inputs
-- Target variable: `Sales`
+- Explored relationships between features and target (`Sales`)
+- Visualized feature correlation using heatmap
+- Used `TV`, `Radio`, and `Newspaper` as input features
 
 ## 🧠 Model Used
 - **Linear Regression**
@@ -26,11 +26,30 @@ To build a regression model that predicts **product sales** based on advertising
 - Root Mean Squared Error (RMSE)
 - R² Score
 
-## 📈 Output
+---
 
-Predicted vs Actual Sales Comparison:
+## 📈 Output Visualizations
 
-![Actual vs Predicted](Task-4.png) <!-- optional: if you upload it -->
+### 🔹 1. Pairplot – Features vs Sales
+A visual comparison of every feature against `Sales`.
+
+![Pairplot](pairplot.png)
+
+---
+
+### 🔹 2. Correlation Heatmap
+Shows the strength of relationships between features.
+
+![Heatmap](correlation_heatmap.png)
+
+---
+
+### 🔹 3. Actual vs Predicted Sales
+Visual comparison of predicted vs actual sales values. The closer the dots are to the red line, the better the model’s predictions.
+
+![Actual vs Predicted](sales_prediction_plot.png)
+
+---
 
 ## ✅ Status
 Completed ✔️
