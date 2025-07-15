@@ -47,7 +47,7 @@ Shows the strength of relationships between features.
 ### 🔹 3. Actual vs Predicted Sales
 Visual comparison of predicted vs actual sales values. The closer the dots are to the red line, the better the model’s predictions.
 
-![Actual vs Predicted](TTask-4.3.png)
+![Actual vs Predicted](Task-4.3.png)
 
 ---
 
