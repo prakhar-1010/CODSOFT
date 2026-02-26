@@ -34,15 +34,6 @@ Classifying Iris flowers into three species using petal and sepal dimensions.
 
 ---
 
-### 🔹 [Task 4 – Sales Prediction using Python](./Task%204%20-%20Sales%20Prediction)
-Predicting product sales based on advertising spend across TV, Radio, and Newspaper channels.
-
-- Model Used: Linear Regression
-- Metrics: MAE, RMSE, R² Score
-- [View task folder](./Task%204%20-%20Sales%20Prediction)
-
----
-
 ## 🧰 Tools & Libraries Used
 - Python
 - Pandas, NumPy
